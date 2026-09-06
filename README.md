@@ -6,6 +6,12 @@ This is my first interactive Sales Dashboard created using Microsoft Excel.
 
 The dashboard was developed to analyze sales performance and present key business insights in an easy-to-understand visual format.
 
+## 🖼️ Dashboard Preview
+
+![Sales Dashboard](Screenshot%202026-09-06%20123530.png)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 * Microsoft Excel
@@ -74,4 +80,3 @@ I plan to improve this dashboard by adding:
 **Bibato Soman**
 
 This project is part of my journey in learning **Data Analytics and Excel Dashboard Development**.
-
